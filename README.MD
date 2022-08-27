@@ -1,6 +1,7 @@
 ## installation
-run commands
+run command
 `` pip install -r requirements.txt ``
+and command
 `` xlwings addin install ``
 
 
@@ -9,7 +10,7 @@ run commands
  - the program will get the latest filled row 
  - column A should be filled
  - press save button
- - No. Should be unique or it will **overwrite** exsiting files !! 
+ - No. Should be unique or it will __overwrite__ exsiting files !! 
 
 ## Output folders
     --docs
