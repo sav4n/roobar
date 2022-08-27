@@ -1,0 +1,4 @@
+xlwings
+docxtpl
+docx2pdf
+win32api
