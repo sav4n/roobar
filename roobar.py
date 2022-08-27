@@ -48,7 +48,7 @@ def save(last_row):
     'l_text' : getValue('W',last_row) ,
     'undo' : getValue('X',last_row) ,
     'undo_text' : getValue('Y',last_row) ,
-    'agree_d' : getValue('P',last_row) ,
+    'agree_d' : str(getValue('P',last_row)) ,
     'eva_d' : getValue('Q',last_row) ,
     'witness1' : getValue('AA',last_row) ,
     'witness2' : getValue('AB',last_row) ,
